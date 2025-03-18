@@ -14,13 +14,9 @@
 
 <p>Sigo em um desenvolvimento continuo, sou uma pessoa que quer sempre melhorar não só tecnicamente mas tambem como ser humano. Estou feliz com o caminho que estou seguindo e motivado para aprender! Estou disposto tambem a contribuir com novos projetos e aberto para novas vivencias de vida.</p>
 
-<p>Se quiser me conhecer mais é só me contactar pelos links abaixo:</p>
-<a href="https://www.linkedin.com/in/ygormachadoo/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-<a href="https://wa.me/5512982929401" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
-</a>
+<p>Se quiser me conhecer mais é só me contatar pelos links abaixo:</p>
+  <a href="https://www.linkedin.com/in/ygormachadoo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://wa.me/5512982929401"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 
 <br>
 <br>
